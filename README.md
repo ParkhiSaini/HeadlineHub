@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Headline Hub
+- Stack -> React + Vite + Bootstrap
+- Go to news website to get all the lastest headlines.
+- User can browse news of a specific category as well.
+- Used newsapi.org to fetch the news
 
-Currently, two official plugins are available:
+Sample images
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/ParkhiSaini/HeadlineHub/assets/90965313/00190aca-ce29-4933-8ac8-f2db367a00a0)
+
+![image](https://github.com/ParkhiSaini/HeadlineHub/assets/90965313/5523be5f-52f7-4ef6-bb8f-2dbf11acaade)
+
